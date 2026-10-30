@@ -1,0 +1,72 @@
+[
+    {
+        "text": "From limited preparation time to scoring 99% and securing a Top 2% position in NPTEL's Internet, Crimes and Cyber Security course. A story about smart preparation, previous-year questions, consistency and confidence.",
+        "engagement": 20,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Cyber Security",
+            "NPTEL"
+        ]
+    },
+    {
+        "text": "Behind every SaaS product are late-night debugging sessions, broken deployments, API failures and scaling challenges. SummerSaaS 2026 was an experience of collaboration, experimentation, problem-solving and building real products.",
+        "engagement": 200,
+        "line_count": 2,
+        "language": "English",
+        "tags": [
+            "Debugging",
+            "SaaS"
+        ]
+    },
+    {
+        "text": "Excited to begin the SaaSum AI Track at SummerSaaS 2026. Exploring how Generative AI can unify fragmented enterprise systems, automate workflows and solve real-world business challenges.",
+        "engagement": 24,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Enterprise Systems",
+            "Generative AI"
+        ]
+    },
+    {
+        "text": "I stopped posting, but I didn't stop learning. After completing a 14-day AI Image Annotation internship, I learned how accurate data labeling directly impacts AI model performance. Growth doesn't always have to be loud.",
+        "engagement": 789,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Data Labeling",
+            "AI"
+        ]
+    },
+    {
+        "text": "What if AI misdiagnoses an MRI? Exploring a Human-in-the-Loop AI diagnostic system using CNNs, confidence-based review thresholds, Grad-CAM explainability and human validation. AI should assist doctors, not replace them.",
+        "engagement": 56,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Medical Imaging",
+            "AI"
+        ]
+    },
+    {
+        "text": "Attended an Amazon WoW session on the SDET role. Learned how software development engineers in test connect development and testing, explored career paths and understood the importance of test automation.",
+        "engagement": 48,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "Test Automation",
+            "SDET"
+        ]
+    },
+    {
+        "text": "Excited to enter India's Summer AI Hackathon. With thousands of teams and participants, the focus is on building real products, solving problems and turning ideas into working prototypes.",
+        "engagement": 290,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "AI Hackathon",
+            "India"
+        ]
+    }
+]
